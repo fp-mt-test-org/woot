@@ -1,5 +1,5 @@
 {
-    "_template": "/tmp/acfa5301-88de-466d-9522-84e73b1c91b2_step-fetch-base-X6FCKR/template",
+    "_template": "https://github.com/fp-mt-test-org/template-v2-test",
     "component_id": "woot",
     "java_package_name": "packagename"
 }
